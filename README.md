@@ -7,3 +7,8 @@
 ## Lab 2
 
 [Model Static Hanging Mobiles using Linear Algebra](./lab2/PHYS_BIOL_212_Module_2.ipynb)
+
+## Lab 3
+
+[Estimating Derivatives](./lab3/PHYS_BIOL 212_ Module 3 Part I.ipynb)
+[Predator-Prey Simulation](./lab3/PHYS_BIOL_212_Module_3_Part_II.ipynb)
