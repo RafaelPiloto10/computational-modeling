@@ -10,5 +10,5 @@
 
 ## Lab 3
 
-[Estimating Derivatives]("./lab3/PHYS_BIOL 212_ Module 3 Part I.ipynb")
+[Estimating Derivatives](./lab3/PHYS_BIOL_212_Module_3_Part_I.ipynb)
 [Predator-Prey Simulation](./lab3/PHYS_BIOL_212_Module_3_Part_II.ipynb)
