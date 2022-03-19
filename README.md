@@ -12,3 +12,8 @@
 
 - [Estimating Derivatives](./lab3/PHYS_BIOL_212_Module_3_Part_I.ipynb)
 - [Predator-Prey Simulation](./lab3/PHYS_BIOL_212_Module_3_Part_II.ipynb)
+
+## Lab 4
+
+- [Model Fitting](./lab4/PHYS_BIOL_212_Module_4_Part_I.ipynb)
+- [Model Fitting pt 2](./lab4/PHYS_BIOL_212_Module_4_Part_II.ipynb)
