@@ -17,3 +17,13 @@
 
 - [Model Fitting](./lab4/PHYS_BIOL_212_Module_4_Part_I.ipynb)
 - [Model Fitting pt 2](./lab4/PHYS_BIOL_212_Module_4_Part_II.ipynb)
+
+## Lab 5
+
+- [DLA Random Walk](./lab5/Module_5_Part_I.ipynb)
+- [Bounded DLA Random Walk](./lab5/Module_5_Part_II.ipynb)
+
+## Lab 6
+
+- [Ising 2D](./lab6/Module_6_Part_I.ipynb)
+- [Stochasticity with Image Processing](./lab6/Module_6_Part_II.ipynb)
