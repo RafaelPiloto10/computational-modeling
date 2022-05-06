@@ -1,5 +1,9 @@
 # Emory University: Physics Computational Modeling
 
+The material in this repository serves for educational and records purposes only.
+If you are an Emory student taking the course, ensure you are not in violation
+of the Emory Honor Code.
+
 ## Lab 1
 
 - [Approximating function values](./lab1/PHYS_212_Module_1.ipynb)
