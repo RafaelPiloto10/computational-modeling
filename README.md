@@ -27,3 +27,7 @@
 
 - [Ising 2D](./lab6/Module_6_Part_I.ipynb)
 - [Stochasticity with Image Processing](./lab6/Module_6_Part_II.ipynb)
+
+## Final
+
+- [Fire Spread Model](./Final/PHYS_BIOL_212_Final_Exam_Spring_2022.ipynb)
